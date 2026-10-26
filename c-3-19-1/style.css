@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.box {
+  background-color: #aef;
+  width: 400px;
+  padding: 2rem;
+  margin: 1rem;
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
+}
